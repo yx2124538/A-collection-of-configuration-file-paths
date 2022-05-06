@@ -32,6 +32,7 @@ C:\Users\<用户名>\local\\Microsoft\Outlook\ *.pst
 eg：((dir env:appdata |Select-Object -Expandproperty value) + "\..\local\\Microsoft\Outlook\" | Get-ChildItem -Recurse -Include *.pst| Select-Object FullName).FullName
 
 #Thunderbird
+C:\Users\<用户名>\AppDat\Thunderbird\Profiles\*logins.json,*.db
 eg：$test21 =  ((dir env:appdata |Select-Object -Expandproperty value) + "\Thunderbird\Profiles\" |  Get-ChildItem -Recurse -Include *logins.json,*.db |Select-Object FullName).FullName
 
 #windows mail
