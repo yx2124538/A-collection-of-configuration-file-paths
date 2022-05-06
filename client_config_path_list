@@ -65,3 +65,11 @@ C:\Users\<用户名>\Documents\WeChat Files\<sx_id>\config\AccInfo.dat
 C:\Program Files\Oray\SunLogin\SunloginClient\config.ini
 #向日葵绿色版
 C:\ProgramData\Oray\SunloginClient\config.ini
+
+#网易邮箱大师
+C:\Users\<user>\AppData\Local\Netease\MailMaster\data\ app.db  contacts.db
+
+#有道翻译
+C:\Users\<user>\AppData\Local\Yodao\DeskDict\wordbookloginhistory.dat
+
+
