@@ -58,6 +58,8 @@ C:\Users\<用户名>\Documents\NetSarang\*.xsh
 eg： ((dir env:appdata |Select-Object -Expandproperty value) + "\..\..\Documents\NetSarang Computer\" | Get-ChildItem -Recurse -Include *.xsh| Select-Object FullName).FullName
         ((dir env:appdata |Select-Object -Expandproperty value) + "\..\..\Documents\NetSarang\" | Get-ChildItem -Recurse -Include *.xsh| Select-Object FullName).FullName
 
+#MobaXterm
+C:\Users\<user>\AppData\Roaming\MobaXterm\MobaXterm.ini
 
 #网易云userid
 C:\Users\<用户名>\AppData\Local\Netease\CloudMusic\info
