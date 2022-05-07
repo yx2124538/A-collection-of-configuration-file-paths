@@ -35,6 +35,12 @@ eg：((dir env:appdata |Select-Object -Expandproperty value) + "\..\local\\Micro
 C:\Users\<用户名>\AppDat\Thunderbird\Profiles\*logins.json,*.db
 eg：$test21 =  ((dir env:appdata |Select-Object -Expandproperty value) + "\Thunderbird\Profiles\" |  Get-ChildItem -Recurse -Include *logins.json,*.db |Select-Object FullName).FullName
 
+#fixmail
+C:\Foxmail*\Storage\
+D:\Program Files\Foxmail*\Storage (这两个目录下存放着的目录名是登录过的用户)
+C:\Foxmail*\Storage\ 搜索  Account.stg
+D:\Program Files\Foxmail*\Storage\ 搜索  Account.stg
+
 #windows mail
 C:\Users\<用户名>\AppData\Local\Microsoft\Windows Live\Contacts
 
@@ -84,6 +90,4 @@ eg:temp2.data
 
 #steam
 C:\Program Files (x86)\Steam\config\loginusers.vdf (login user)
-
-
 
