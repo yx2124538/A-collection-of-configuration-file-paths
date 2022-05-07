@@ -79,7 +79,7 @@ C:\Users\<user>\AppData\Local\Yodao\DeskDict\wordbookloginhistory.dat
 \HKEY_CURRENT_USER\SOFTWARE\PremiumSoft\Navicat\Servers\
 
 #baidu\BaiduNetdisk
-C:\Users\17434\AppData\Roaming\baidu\BaiduNetdisk\users\*.data
+C:\Users\<user>\AppData\Roaming\baidu\BaiduNetdisk\users\*.data
 eg:temp2.data
 
 #steam
