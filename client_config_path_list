@@ -61,6 +61,9 @@ C:\Users\<用户名>\Documents\WeChat Files\All Users\config\config.data
 #微信手机号位置
 C:\Users\<用户名>\Documents\WeChat Files\<sx_id>\config\AccInfo.dat
 
+#qq
+C:\Users\17434\Documents\Tencent Files\ (文件名就是电脑登录过的qq)
+
 #向日葵
 C:\Program Files\Oray\SunLogin\SunloginClient\config.ini
 #向日葵绿色版
@@ -71,5 +74,16 @@ C:\Users\<user>\AppData\Local\Netease\MailMaster\data\ app.db  contacts.db
 
 #有道翻译
 C:\Users\<user>\AppData\Local\Yodao\DeskDict\wordbookloginhistory.dat
+
+#navicat
+\HKEY_CURRENT_USER\SOFTWARE\PremiumSoft\Navicat\Servers\
+
+#baidu\BaiduNetdisk
+C:\Users\17434\AppData\Roaming\baidu\BaiduNetdisk\users\*.data
+eg:temp2.data
+
+#steam
+C:\Program Files (x86)\Steam\config\loginusers.vdf (login user)
+
 
 
