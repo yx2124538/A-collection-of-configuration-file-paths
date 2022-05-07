@@ -40,6 +40,7 @@ C:\Foxmail*\Storage\
 D:\Program Files\Foxmail*\Storage (这两个目录下存放着的目录名是登录过的用户)
 C:\Foxmail*\Storage\ 搜索  Account.stg
 D:\Program Files\Foxmail*\Storage\ 搜索  Account.stg
+#新版无法找到Account.stg
 
 #windows mail
 C:\Users\<用户名>\AppData\Local\Microsoft\Windows Live\Contacts
@@ -75,7 +76,7 @@ C:\Program Files\Oray\SunLogin\SunloginClient\config.ini
 #向日葵绿色版
 C:\ProgramData\Oray\SunloginClient\config.ini
 
-#网易邮箱大师
+#网易邮箱大师（只有用户名）
 C:\Users\<user>\AppData\Local\Netease\MailMaster\data\ app.db  contacts.db
 
 #有道翻译
